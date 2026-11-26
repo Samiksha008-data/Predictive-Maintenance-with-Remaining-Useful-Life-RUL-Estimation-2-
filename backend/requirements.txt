@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+pandas
+torch
+xgboost
+shap
+sse-starlette
+joblib
